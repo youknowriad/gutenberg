@@ -1,5 +1,9 @@
 == Changelog ==
 
+= 6.0.0-rc.1 =
+
+random changelog
+
 = 8.0.0 =
 
 ### Features
